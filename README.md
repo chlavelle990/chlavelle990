@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chlavelle990
+- 👋 Hi, I’m @Chris Lavelle
 - 👀 I’m interested in ...Project Management / GIS / Java
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...Java
