@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chlavelle990
-- 👀 I’m interested in ...Data Analysis / GIS / 
-- 🌱 I’m currently learning ...Modelling Data in Excel
-- 💞️ I’m looking to collaborate on ...Power BI Dashboards
+- 👀 I’m interested in ...Project Management / GIS / Java
+- 🌱 I’m currently learning ...Java
+- 💞️ I’m looking to collaborate on ...Java
 - 📫 How to reach me ...just email or message via this
 
 <!---
